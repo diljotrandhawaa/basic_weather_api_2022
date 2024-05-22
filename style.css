@@ -1,0 +1,27 @@
+#city-input, #weather-output {
+    max-width: 400px;
+    margin: 0 auto;
+}
+  
+.banner {
+    color: #FFD23F;
+    font-family: sans-serif;
+}
+
+
+.form-group {
+  width: 400px;
+  margin: auto;
+  margin-bottom: 15px;
+}
+
+#error-msg {
+  display: block;
+  color: red;
+/*   margin-right: 175px; */
+  margin-left: 5px;
+  margin-top: 5px;
+  font-size: 0.8em;
+  text-align: left;
+  width: 100%;
+}
